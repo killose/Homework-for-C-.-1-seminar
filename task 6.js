@@ -28,6 +28,6 @@ console.log(calculateMax(22,3,9));
 // }
 
 
-console.log(calculateMax(2,3,7));
-console.log(calculateMax(44,5,78));
-console.log(calculateMax(22,3,9));
+// console.log(calculateMax(2,3,7));
+// console.log(calculateMax(44,5,78));
+// console.log(calculateMax(22,3,9));
